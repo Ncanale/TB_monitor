@@ -1,0 +1,15 @@
+{
+    "RunAllignment": 680165,
+    "RunEqualizer": 680245,
+    "d_12": 925,
+    "d_1c": 953,
+    "offset_x2": 1.1971159313901332,
+    "offset_y2": -0.602845866465819,
+    "div_12x": 0.00027084777701111897,
+    "div_12y": 0.0005041808584579469,
+    // "George_correction": 0.8138326226012794,
+    "George_correction": 1.0,
+    "Paul_correction": 1.0,
+    // "Paul_correction": 0.8525519320973867,
+    "John_correction": 1.0
+}
